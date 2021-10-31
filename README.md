@@ -89,7 +89,7 @@ If you donlt like to play in linked channel:
 - `.a` - approove someone to pm you
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
-+ Contact @Somyajeet_Mishra For help
++ Contact t.me/Somyajeet_Mishra For help
 
 #### Special Credits
 - [TeamDlt](https://t.me/teamDlt_update) Channel bot list

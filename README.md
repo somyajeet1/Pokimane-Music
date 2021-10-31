@@ -2,7 +2,7 @@
 Music bot
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/somyajeet1/Pokimane-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="300" height="60"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/somyajeet1/Pokimane-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=Deploy in Heroku" width="300" height="60"/></a></p>
 
 
 - Support Channel :- [TeamDlt](http://https://t.me/teamDlt_update)

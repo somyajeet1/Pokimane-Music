@@ -1,5 +1,5 @@
 #                                                                    Pokimane-Music
-Music bot of O
+Music bot of # [Owner](https://t.me/Somyajeet_Mishra)
 # How To Host
 The easiest way to deploy this Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/somyajeet1/Pokimane-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=Deploy" width="300" height="60"/></a></p>

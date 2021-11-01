@@ -91,8 +91,9 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 + Contact [Somyajeet](https://t.me/Somyajeet_Mishra) For help
 
-#### Special Credits Goes To
+# Special Credits Goes To
 - [Naruto](https://t.me/Naruto123777) Seven Rings Owner [Group](https://t.me/SevenRings_Group)
 - [Abhishek](https://t.me/Itz_Abhishek_xD) owner of [FriendShip Forever](https://t.me/FriendsShip_Forever)
+- [Aditi](https://t.me/aditi_005)
 - [TeamDlt](https://t.me/teamDlt_update) Channel bot list
 - [OWNER](http://t.me/Somyajeet_Mishra) SJM owner of this bot
